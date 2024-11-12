@@ -1,0 +1,4 @@
+﻿<batchasettings>
+    <targetdirectory>C:\Users\81805\Desktop\psbatchsample\target</targetdirectory>
+    <targetfilename>*.txt</targetfilename>
+</batchasettings>
